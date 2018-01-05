@@ -60,7 +60,7 @@ tests                    contains various tests for the advanced application
 ```
 ## Copyright and License
 
-Copyright © 2017 aufposting
+Copyright © 2017 aufposting (9350 4470 quebec inc)
 
 Copyright © 2008 by Yii Software LLC (http://www.yiisoft.com)
 
