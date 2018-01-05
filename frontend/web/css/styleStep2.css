@@ -1,0 +1,91 @@
+/*! styleStep2 */
+
+div#divTotalNumberOfBedrooms {
+    margin-top: 4%;
+    margin-bottom: 4%;
+}
+
+button#btnPropertyType {
+    background: #27ae60;
+    border: 1px solid;
+    width: 32.9%;
+    color: #fff;
+    padding: 2%;
+}
+
+input#priceAmount {
+    width: 90%;
+    height: 34px;
+}
+
+button#btnPropertyType:hover {
+background: rgba(39, 174, 96, 0.16);
+
+border: 1px solid;
+
+width: 32.9%;
+color: #27ae60;
+} 
+
+.button-multi--selected{color: #2574a9;
+background: #e0eef7}
+
+
+
+button#btnTotalNoOfBedrooms {
+    width: 10.5%;
+    background: rgba(39, 174, 96, 0.16);
+    border: 1px solid #27ae60;
+}
+
+button#btnTotalNoOfBathrooms  {
+    width: 10.5%;
+    background: rgba(39, 174, 96, 0.16);
+    border: 1px solid #27ae60;
+}
+
+.signup .ui-checkbox-label--big {
+    height: 100%;
+    width: 100%;
+    font-size: 16px;
+    color: #555;
+    text-align: center;
+    fill: none;
+    stroke: #cdcdcd;
+}
+
+.amenities.active .amenities-icon {
+    background-color: #fff;
+    color: #27ae60;
+}
+
+.amenities-icon {
+    background-color: #27ae60;
+    border: 2px solid #27ae60;
+    -webkit-box-sizing: content-box;
+    box-sizing: content-box;
+    color: #fff;
+    display: inline-block;
+    position: relative;
+    text-align: center;
+    z-index: 2;
+    display: inline-block;
+    font-size: 24px;
+    height: 48px;
+    line-height: 48px;
+    text-align: center;
+    width: 48px;
+}
+.amenities-segment {
+    display: block;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    position: relative;
+}
+
+.amenities {
+    color: #384243;
+    display: block;
+    padding: 0;
+    text-align: center;
+}

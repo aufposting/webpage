@@ -1,0 +1,30 @@
+[31-Oct-2016 00:21:45 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/nwus/public_html/montreal/index.php on line 6
+[31-Oct-2016 00:27:41 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/nwus/public_html/montreal/index.php on line 6
+[31-Oct-2016 00:27:45 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/nwus/public_html/montreal/index.php on line 6
+[31-Oct-2016 00:27:45 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/nwus/public_html/montreal/index.php on line 6
+[31-Oct-2016 00:27:46 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/nwus/public_html/montreal/index.php on line 6
+[31-Oct-2016 00:27:59 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/nwus/public_html/montreal/index.php on line 6
+[31-Oct-2016 00:28:01 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/nwus/public_html/montreal/index.php on line 6
+[31-Oct-2016 00:28:02 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/nwus/public_html/montreal/index.php on line 6
+[31-Oct-2016 00:28:03 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/nwus/public_html/montreal/index.php on line 6
+[31-Oct-2016 00:28:04 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/nwus/public_html/montreal/index.php on line 6
+[31-Oct-2016 00:28:05 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/nwus/public_html/montreal/index.php on line 6
+[31-Oct-2016 00:28:51 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/nwus/public_html/montreal/index.php on line 6
+[31-Oct-2016 00:28:52 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/nwus/public_html/montreal/index.php on line 6
+[31-Oct-2016 00:29:00 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/nwus/public_html/montreal/index.php on line 6
+[31-Oct-2016 00:29:01 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/nwus/public_html/montreal/index.php on line 6
+[31-Oct-2016 00:29:02 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/nwus/public_html/montreal/index.php on line 6
+[31-Oct-2016 00:29:02 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/nwus/public_html/montreal/index.php on line 6
+[31-Oct-2016 00:29:03 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/nwus/public_html/montreal/index.php on line 6
+[31-Oct-2016 00:29:03 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/nwus/public_html/montreal/index.php on line 6
+[31-Oct-2016 00:29:15 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/nwus/public_html/montreal/index.php on line 6
+[31-Oct-2016 00:29:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/nwus/public_html/montreal/index.php on line 6
+[31-Oct-2016 00:29:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/nwus/public_html/montreal/index.php on line 6
+[31-Oct-2016 00:29:29 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/nwus/public_html/montreal/index.php on line 6
+[31-Oct-2016 00:29:30 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/nwus/public_html/montreal/index.php on line 6
+[31-Oct-2016 00:47:55 America/Chicago] PHP Warning:  Invalid argument supplied for foreach() in /home/nwus/public_html/montreal/index.php on line 6
+[07-Nov-2016 15:07:31 America/Chicago] PHP Parse error:  syntax error, unexpected '$sizeOfApt' (T_VARIABLE) in /home/nwus/public_html/montreal/mail.php on line 30
+[20-Nov-2016 14:33:39 America/Chicago] PHP Warning:  require_once(/home3/x0s6j5b1/public_html/../vendor/autoload.php): failed to open stream: No such file or directory in /home3/x0s6j5b1/public_html/example-captcha.php on line 36
+[20-Nov-2016 14:33:39 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home3/x0s6j5b1/public_html/../vendor/autoload.php' (include_path='.:/opt/php56/lib/php') in /home3/x0s6j5b1/public_html/example-captcha.php on line 36
+[20-Nov-2016 14:33:59 America/Chicago] PHP Warning:  require_once(/home3/x0s6j5b1/public_html/../vendor/autoload.php): failed to open stream: No such file or directory in /home3/x0s6j5b1/public_html/example-captcha.php on line 36
+[20-Nov-2016 14:33:59 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home3/x0s6j5b1/public_html/../vendor/autoload.php' (include_path='.:/opt/php56/lib/php') in /home3/x0s6j5b1/public_html/example-captcha.php on line 36

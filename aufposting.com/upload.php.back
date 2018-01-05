@@ -1,0 +1,33 @@
+<?php
+session_start();
+$ds = DIRECTORY_SEPARATOR;
+
+$storeFolder = 'uploads/';
+$digits = '';
+
+$amountOfDigits = 4;
+$numbers = range(0,9);
+shuffle($numbers);
+
+for($i = 0;$i < $amountOfDigits;$i++)
+   $digits .= $numbers[$i];
+
+if (!empty($_FILES)) {
+    $tempFile = $_FILES['file']['tmp_name'];
+    $targetPath = dirname( __FILE__ ) . $ds . $storeFolder . $ds;
+    $targetFile = $targetPath . time() . '-' . $digits . '-' . $_FILES['file']['name'];
+    
+    if(move_uploaded_file($tempFile,$targetFile)){
+        $dataB[] = array('path'=>$targetFile, 'name'=>$_FILES['file']['name']);
+        if (!empty($_SESSION['files'])) {
+            $rest = array_merge($_SESSION['files'],$dataB);
+            $_SESSION['files'] = $rest;       
+        }else{
+           $_SESSION['files'] = $dataB;   
+        }
+    }else{
+        session_destroy();
+    }
+}
+print_r($_SESSION['files']);
+?>
