@@ -1,6 +1,12 @@
+# aufposting Webpage
+This is the source code for aufposting. This webpage uses the Yii 2 template. 
+
+## Bugs and Issues
+
+If you find any bugs or issues, please be free to send a messege to flsingerman@gmail.com or avery@aufposting.com.
+
 Yii 2 Advanced Project Template
 ===============================
-test
 Yii 2 Advanced Project Template is a skeleton [Yii 2](http://www.yiiframework.com/) application best for
 developing complex Web applications with multiple tiers.
 
@@ -52,3 +58,6 @@ environments/            contains environment-based overrides
 tests                    contains various tests for the advanced application
     codeception/         contains tests developed with Codeception PHP Testing Framework
 ```
+## Copyright and License
+
+Copyright 2017 aufposting.
